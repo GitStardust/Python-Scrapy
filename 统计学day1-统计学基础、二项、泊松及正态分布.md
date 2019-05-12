@@ -1,3 +1,5 @@
+<script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=default"></script>
+$$μ=\sum_{i=1}^Nx_i^N$$
 # 统计学day1-统计学基础、二项、泊松及正态分布
 ## 统计学基础
 ### 三数
